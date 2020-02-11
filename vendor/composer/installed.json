@@ -2713,8 +2713,8 @@
     },
     {
         "name": "symfony/dotenv",
-        "version": "v5.0.3",
-        "version_normalized": "5.0.3.0",
+        "version": "v5.0.4",
+        "version_normalized": "5.0.4.0",
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/dotenv.git",
